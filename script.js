@@ -5,4 +5,3 @@ const btn = document.querySelector("form input");
 function fun(){
     item.remove(item.ariaSelectedindex);
 }
-btn.addEventListener("click",fun);
